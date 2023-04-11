@@ -8,3 +8,6 @@ facilities.
 
 kmeans_clusters and kmeans_identify:
 An ENGR 151 project to create a KMeans machine learning algorithm to determine an unknown car's type from 7 distinct features. 
+
+spotify and dataAnalysis:
+Michigan Student Artificial Intelligence Lab project to use machine learning to create a Spotify recommendation list
